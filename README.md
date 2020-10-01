@@ -2,7 +2,7 @@
 <b>simple dark mode toggle application</b>
 
 # install 
-`cd quiz-app`
+`cd dark-mode-toggle-app`
 
 `npm install server --save`
 
